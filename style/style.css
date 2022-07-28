@@ -1,5 +1,6 @@
 body{
-    background-color: blueviolet;
+    background: linear-gradient(to top, red,blue, yellow, violet);
+    background-repeat: no-repeat ;
     display: flex;
     flex-direction: column;
     justify-content: center;
